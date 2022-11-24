@@ -27,7 +27,7 @@ public class playstate1 extends JPanel implements ActionListener{
 	private final ImageIcon back = new ImageIcon(this.getClass().getResource("back.png"));
 	private final ImageIcon bar = new ImageIcon(this.getClass().getResource("bar.png"));
 	
-	meleon player = new meleon();
+	kid player = new kid();
         
 	homegames hg = new homegames();
 	ImageIcon feildover = new ImageIcon(this.getClass().getResource("gameover.png"));

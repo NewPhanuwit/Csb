@@ -20,10 +20,11 @@ public class Frame {
     public static void main(String[] args) {
          JFrame jf = new PlayGames();
             jf.setSize(1400,800);
-            jf.setTitle("Animation Example");
+            jf.setTitle("CSB Adventure");
             jf.setDefaultCloseOperation(EXIT_ON_CLOSE);
             jf.setVisible(true);
             jf.setLocationRelativeTo(null);
+
     }
     
 }
