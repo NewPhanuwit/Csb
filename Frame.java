@@ -12,7 +12,7 @@ import static javax.swing.JFrame.EXIT_ON_CLOSE;
  *
  * @author ssp
  */
-public class JavaApplication7 {
+public class Frame {
 
     /**
      * @param args the command line arguments
